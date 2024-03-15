@@ -98,3 +98,10 @@
 <div align="right">
   <a href="https://github.com/DarkMod3/GuiaAnonimaBR?tab=readme-ov-file#--------guia-an%C3%B4nima-br--"><strong>Voltar ao início</strong></a>
 </div>
+
+<br>
+<br>
+<br>
+<br>
+
+<p align="center">• ɢᴜɪᴀ ᴄʀɪᴀᴅᴏ ᴘᴏʀ ᴅᴀʀᴋᴍᴏᴅᴇ •</p>
